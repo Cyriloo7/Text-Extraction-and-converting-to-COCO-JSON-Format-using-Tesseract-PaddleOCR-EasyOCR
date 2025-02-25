@@ -17,8 +17,10 @@ This repository provides scripts to extract text from images using Optical Chara
 
 # Usage
 ## Clone the Repository:
+```bash
 git clone https://github.com/Cyriloo7/Text-Extraction-and-converting-to-COCO-JSON-Format-using-Tesseract-PaddleOCR-EasyOCR.git
 cd Text-Extraction-and-converting-to-COCO-JSON-Format-using-Tesseract-PaddleOCR-EasyOCR
+```
 
 ## Extract Text from Images:
 ### Using Tesseract:
